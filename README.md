@@ -7,7 +7,7 @@ if __name__ == "__main__":
 
 ```
 
-![alt-text](https://github.com/NEOZRO/snake_game_reinforcement_learning/img/snake_gameplay.gif)
+![alt-text](https://github.com/NEOZRO/snake_game_reinforcement_learning/blob/main/img/snake_gameplay.gif)
 
 Check out my full article in
 https://neozro.github.io/project_2_snake_RL.html
